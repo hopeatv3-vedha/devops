@@ -1,0 +1,3 @@
+DAY 1:
+i learned basic linux terminal commands
+pwd,cd,cd ~,ls,mkdir devops,cd devops,touch notres.txt,none ,cat
