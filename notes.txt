@@ -4,3 +4,6 @@ pwd,cd,cd ~,ls,mkdir devops,cd devops,touch notres.txt,none ,cat
 day 2:
  learned gi bascis,created github accountand repository,and pushed codefrom
 linux to github using tokem[new  repository-devops-dcripition-public-create,,,git remote add origin url]
+
+day 3:
+practiced making regular commits and understood the daily git workflow(edit,add,commit,push)
